@@ -1,0 +1,1 @@
+print("GPT-3,GPT-4,Llama,BERT,Gemini".split(","))
