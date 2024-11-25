@@ -1,4 +1,4 @@
-# python-funamentals
+# python-fundamentals
 
 Welcome to the Python Fundamentals repository! This project serves as a comprehensive resource for learning and practicing Python programming. It covers essential concepts, best practices, and hands-on exercises to build a strong foundation in Python.
 
